@@ -1,2 +1,4 @@
 # hello-world
-A short description of my newly-created repository that sums up all my ideas and future projects
+
+Greetings!
+There is not much to say about me, so I will leave it to your imagination.
